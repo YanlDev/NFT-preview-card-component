@@ -107,6 +107,8 @@ main{
 }
 .value{
     grid-area: value2;
+    color: var(--Cyan);
+    font-weight: 600;
 }
 .time-icon{
     grid-area: time;
@@ -142,3 +144,4 @@ main{
 .card__name a:hover{
     color: var(--Cyan);
 }
+
